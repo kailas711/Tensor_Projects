@@ -3,14 +3,15 @@ Repository containing portfolio of machine learning projects in areas of ***Feat
 
 **Tools used - NumPy, Pandas, Seaborn, Matplotlib , statsmodel, scipy, scikit-learn**.
 
-## Structure of the projects
+- ## Structure of the projects
 -----------------------------
 1. Introduction
 2. Data Wrangling
 3. Exploratory Data Analysis
 4. Model building/training
-5. Evaluation and comparison 
- - ## Machine Learning 
+5. Evaluation and comparison
+
+ - ##  Notebooks 
     - [-------------](link---)
 
    
