@@ -1,4 +1,4 @@
-# Machine Learning 
+# Machine Learning and Optimization
 Repository containing portfolio of machine learning projects in areas of ***Feature enginnering , Machine Learning and Recommender systems*** completed for academic, self learning, and professional purposes. Presented in the form of Jupyter Notebooks.
 
 **Tools used - NumPy, Pandas, Seaborn, Matplotlib , statsmodel, scipy, scikit-learn**.
