@@ -1,20 +1,25 @@
-# Machine Learning and Optimization
-Repository containing portfolio of machine learning projects in areas of ***Feature enginnering , Machine Learning and Recommender systems*** completed for academic, self learning, and professional purposes. Presented in the form of Jupyter Notebooks.
+# 🤖 Machine Learning Portfolio
 
-**Tools used - NumPy, Pandas, Seaborn, Matplotlib , statsmodel, scipy, scikit-learn**.
+Explore a dynamic repository featuring a series of machine learning projects, encompassing ***Feature Engineering, Model Training, and Recommender Systems.*** 🧠🚀 Each project, crafted for academic, self-learning, and professional purposes, is meticulously presented in the form of Jupyter Notebooks.
 
-- ## Project Structure 
+**Tools Utilized:** NumPy, Pandas, Seaborn, Matplotlib, Statsmodel, Scipy, Scikit-learn, Hyperopt, TPOT 🛠️📊
+
+ If these mini projects piqued your interest, whether you're passionate about machine learning or seeking collaboration, let's connect:
+
+- [LinkedIn](https://www.linkedin.com/in/kailas-p-sudheer-6bb244201/) 🤝🌐
+
+## 📑 Project Structure
 -----------------------------
 1. Introduction
 2. Data Wrangling
 3. Feature Engineering 
 4. Exploratory Data Analysis
-5. Model building/training
-6. Evaluation and comparison
+5. Model Building/Training
+6. Evaluation and Comparison
 
- - ##  Notebooks 
-    - [-------------](link---)
+## 📘 Mini Projects Showcase
+  - [**Project Title 1**](Notebook_Link_1): Unleash the power of feature engineering in a captivating machine learning journey.
+
+  - [**Project Title 2**](Notebook_Link_2): Navigate through the intricacies of model building, training, and optimal evaluation.
 
    
- If you enjoyed what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on:
-    - [LinkedIn](https://www.linkedin.com/in/kailas-p-sudheer-6bb244201/)
