@@ -1,10 +1,12 @@
 # Machine Learning Portfolio
 
-Explore a dynamic repository featuring a series of machine learning projects i've done for learning purposes , encompassing ***Feature Engineering, Model Training, and Recommender Systems.*** 🚀 Each project, crafted for academic, self-learning, and professional purposes, is meticulously presented in the form of Jupyter Notebooks.
+Explore the repository featuring a series of machine learning projects i've done from various online sources , encompassing **Classical Machine Learning, Boosting Algorithms, and Recommender Systems.** 🚀 
 
-**Tools Utilized:** NumPy, Pandas, Seaborn, Matplotlib, Scipy, Scikit-learn, Hyperopt, TPOT 🛠️ Lemme know these mini projects piqued your interest or you're passionate about machine learning.
+Each project, crafted for academic and self-learning purposes is presented in the form of Jupyter Notebooks.
 
-let's connect: [LinkedIn](https://www.linkedin.com/in/kailas-p-sudheer-6bb244201/) 🤝
+**Tools Utilized:** NumPy, Pandas, Seaborn, Matplotlib, Scikit-learn, Hyperopt, TPOT and many more... 🛠️
+
+[LinkedIn](https://www.linkedin.com/in/kailas-p-sudheer-6bb244201/) 🤝
 
 ## Project Structure
 
