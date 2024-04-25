@@ -1,8 +1,8 @@
 # Machine Learning Portfolio
 
-Explore the repository featuring a series of machine learning projects i've done from various online sources , encompassing **Classical Machine Learning, Boosting Algorithms, and Recommender Systems.** 🚀 
+Explore the repository featuring a series of machine learning projects i've done from various online sources , encompassing Classical Machine Learning techniques like **Rregression, Classification, Clustering and Boosting Algorithms** 🚀 
 
-Each project, crafted for academic and self-learning purposes is presented in the form of Jupyter Notebooks.
+Each project, is done for academic and self-learning purposes is presented in the form of Jupyter Notebooks.
 
 **Tools Utilized:** NumPy, Pandas, Seaborn, Matplotlib, Scikit-learn, Hyperopt, TPOT and many more... 🛠️
 
