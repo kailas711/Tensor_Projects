@@ -6,7 +6,7 @@ Each project, is done for academic and self-learning purposes is presented in th
 
 **Tools Utilized:** NumPy, Pandas, Seaborn, Matplotlib, Scikit-learn, Hyperopt, TPOT and many more... 🛠️
 
-[LinkedIn](https://www.linkedin.com/in/kailas-p-sudheer-6bb244201/) 🤝
+Let's connect : [LinkedIn](https://www.linkedin.com/in/kailas-p-sudheer-6bb244201/) 🤝
 
 ## Project Structure
 
