@@ -1,4 +1,4 @@
-# Machine Learning Portfolio
+# Machine Learning Portfolio Projects
 
 Explore the repository featuring a series of machine learning projects i've done from various online sources , encompassing Classical Machine Learning techniques like **Rregression, Classification, Clustering and Boosting Algorithms** 🚀 
 
